@@ -1,10 +1,10 @@
 {
-  "name": "PancakeSwap Exchange LITE",
+  "name": "YokaiSwap Exchange LITE",
   "schemaPath": "schema.graphql",
   "extensions": {
     "endpoints": {
-      "PancakeSwap Exchange LITE": {
-        "url": "https://api.bscgraph.org/subgraphs/name/pancakeswap/exchange-lite",
+      "YokaiSwap Exchange LITE": {
+        "url": "https://www.yokaiswap.com/subgraphs/name/yokaiswap/exchange",
         "headers": {
           "user-agent": "JS GraphQL"
         },
